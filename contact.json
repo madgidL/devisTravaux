@@ -1,0 +1,29 @@
+{
+	"contact": [
+		{
+			"picture": "http://files.agencesillicotravaux44.webnode.fr/200000014-20117210de/LOGO%20ILLICO2.gif",
+			"name": "Nom du client",
+			"affiliation": "Adresse",
+			"phoneNumber": [
+				{
+					"name": "Mobile",
+					"telephone": "555-123-4567"
+				}
+			],
+			"emailAddress": [
+				{
+					"name": "Email",
+					"email": "leaverou@mit.edu"
+				},
+				{
+					"name": "Email",
+					"email": "leaverou@mit.edu"
+				},
+				{
+					"name": "Email",
+					"email": "leaverou@mit.edu"
+				}
+			]
+		}
+	]
+}
