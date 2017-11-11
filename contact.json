@@ -24,7 +24,19 @@
 					"email": "leaverou@mit.edu"
 				}
 			],
-			"adresse": "Adresse du client"
+			"adresse": "Adresse du client",
+			"numeroDeTelephone": [
+				{
+					"name": "Mobile",
+					"telephone": "06 10 20 30 40"
+				}
+			],
+			"adresseEmail": [
+				{
+					"name": "Email",
+					"email": "email@gmail.com"
+				}
+			]
 		},
 		{
 			"picture": "https://cdn1.iconfinder.com/data/icons/business-charts/512/customer-512.png",
@@ -37,6 +49,18 @@
 				}
 			],
 			"emailAddress": [
+				{
+					"name": "Email",
+					"email": "email@gmail.com"
+				}
+			],
+			"numeroDeTelephone": [
+				{
+					"name": "Mobile",
+					"telephone": "06 10 20 30 40"
+				}
+			],
+			"adresseEmail": [
 				{
 					"name": "Email",
 					"email": "email@gmail.com"
