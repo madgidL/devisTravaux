@@ -23,7 +23,8 @@
 					"name": "Email",
 					"email": "leaverou@mit.edu"
 				}
-			]
+			],
+			"adresse": "Adresse du client"
 		}
 	]
 }
