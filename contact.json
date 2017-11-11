@@ -1,7 +1,7 @@
 {
 	"contact": [
 		{
-			"picture": "http://files.agencesillicotravaux44.webnode.fr/200000014-20117210de/LOGO%20ILLICO2.gif",
+			"picture": "https://cdn1.iconfinder.com/data/icons/business-charts/512/customer-512.png",
 			"name": "Nom du client",
 			"affiliation": "Adresse",
 			"phoneNumber": [
@@ -25,35 +25,6 @@
 				}
 			],
 			"adresse": "Adresse du client",
-			"numeroDeTelephone": [
-				{
-					"name": "Mobile",
-					"telephone": "06 10 20 30 40"
-				}
-			],
-			"adresseEmail": [
-				{
-					"name": "Email",
-					"email": "email@gmail.com"
-				}
-			]
-		},
-		{
-			"picture": "https://cdn1.iconfinder.com/data/icons/business-charts/512/customer-512.png",
-			"name": "Nom du client",
-			"adresse": "Adresse du client",
-			"phoneNumber": [
-				{
-					"name": "Mobile",
-					"telephone": "06 10 20 30 40"
-				}
-			],
-			"emailAddress": [
-				{
-					"name": "Email",
-					"email": "email@gmail.com"
-				}
-			],
 			"numeroDeTelephone": [
 				{
 					"name": "Mobile",
