@@ -49,6 +49,13 @@
 				},
 				{
 					"name": " Note",
+					"note": "Observations ........",
+					"type": "Société ou particulier"
+				}
+			],
+			"note": [
+				{
+					"name": " Note",
 					"note": "Observations ........"
 				}
 			]
@@ -79,6 +86,13 @@
 					"name": " Type",
 					"type": "Société ou particulier"
 				},
+				{
+					"name": " Note",
+					"note": "Observations ........",
+					"type": "Société ou particulier"
+				}
+			],
+			"note": [
 				{
 					"name": " Note",
 					"note": "Observations ........"
