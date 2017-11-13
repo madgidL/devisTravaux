@@ -58,6 +58,12 @@
 					"name": " Note",
 					"note": "Observations ........"
 				}
+			],
+			"description": [
+				{
+					"name": " Description",
+					"description": " Votre projet travaux"
+				}
 			]
 		},
 		{
@@ -96,6 +102,12 @@
 				{
 					"name": " Note",
 					"note": "Observations ........"
+				}
+			],
+			"description": [
+				{
+					"name": " Description",
+					"description": " Votre projet travaux"
 				}
 			]
 		}
