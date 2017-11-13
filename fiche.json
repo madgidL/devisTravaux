@@ -1,0 +1,8 @@
+{
+	"client-nom": "Nom du client",
+	"new-task": [
+		{
+			"task": "Rajouter un note concernant ce client"
+		}
+	]
+}
