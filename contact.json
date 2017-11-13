@@ -41,6 +41,16 @@
 					"name": "Email",
 					"email": "email@gmail.com"
 				}
+			],
+			"type": [
+				{
+					"name": " Type",
+					"type": "Société ou particulier"
+				},
+				{
+					"name": " Note",
+					"note": "Observations ........"
+				}
 			]
 		},
 		{
@@ -62,6 +72,16 @@
 				{
 					"name": "Email",
 					"email": "email@gmail.com"
+				}
+			],
+			"type": [
+				{
+					"name": " Type",
+					"type": "Société ou particulier"
+				},
+				{
+					"name": " Note",
+					"note": "Observations ........"
 				}
 			]
 		}
