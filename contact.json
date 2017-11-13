@@ -24,7 +24,11 @@
 					"email": "leaverou@mit.edu"
 				}
 			],
-			"adresse": "Adresse du client",
+			"adresse": [
+				{
+					"name": "Adresse du client"
+				}
+			],
 			"numeroDeTelephone": [
 				{
 					"name": "Mobile",
@@ -41,7 +45,11 @@
 		{
 			"picture": "https://cdn1.iconfinder.com/data/icons/business-charts/512/customer-512.png",
 			"name": "Nom du client",
-			"adresse": "Adresse du client",
+			"adresse": [
+				{
+					"name": "Adresse du client"
+				}
+			],
 			"numeroDeTelephone": [
 				{
 					"name": "Mobile",
