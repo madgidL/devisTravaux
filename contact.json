@@ -26,7 +26,8 @@
 			],
 			"adresse": [
 				{
-					"name": "Adresse du client"
+					"name": "Adresse du client",
+					"adresse": "2 Rue du ..........."
 				}
 			],
 			"numeroDeTelephone": [
@@ -47,7 +48,8 @@
 			"name": "Nom du client",
 			"adresse": [
 				{
-					"name": "Adresse du client"
+					"name": "Adresse du client",
+					"adresse": "2 Rue du ..........."
 				}
 			],
 			"numeroDeTelephone": [
